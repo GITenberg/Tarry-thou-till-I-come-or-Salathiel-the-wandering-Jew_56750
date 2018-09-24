@@ -1,0 +1,38 @@
+_repo: Tarry-thou-till-I-come-or-Salathiel-the-wandering-Jew_56750
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Wallace, Lew
+    alias: Wallace, Lewis
+    birthdate: 1827
+    deathdate: 1905
+    gutenberg_agent_id: '836'
+    url: http://www.gutenberg.org/2009/agents/836
+    wikipedia: http://en.wikipedia.org/wiki/Lew_Wallace
+  illustrator:
+    agent_name: Thulstrup, Thure de
+    aliases:
+    - De Thulstrup, Thure
+    - Thulstrup, T. de (Thure de)
+    birthdate: 1848
+    deathdate: 1930
+    gutenberg_agent_id: '38324'
+    url: http://www.gutenberg.org/2009/agents/38324
+creator:
+  author:
+    agent_name: Croly, George
+    gutenberg_agent_id: '49019'
+    url: http://www.gutenberg.org/2009/agents/49019
+description: ''
+gutenberg_issued: '2018-03-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56750'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Tarry thou till I come; or, Salathiel, the wandering Jew.
+url: http://www.gutenberg.org/ebooks/56750
